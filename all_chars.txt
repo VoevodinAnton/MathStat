@@ -1,0 +1,27 @@
+Lowercase and uppercase character frequencies from A to Z: 
+817 
+227 
+427 
+565 
+1944 
+190 
+339 
+689 
+928 
+26 
+217 
+421 
+333 
+1172 
+309 
+93 
+3 
+870 
+762 
+808 
+451 
+69 
+236 
+1 
+5 
+166 
